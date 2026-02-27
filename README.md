@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para a disciplina de IoT do curso de Engenharia de Software da Universidade de Mogi das Cruzes.
 
-O sistema simula um dispositivo IoT com sensor DHT11, onde o usuário controla temperatura e umidade via sliders em uma página web. A aplicação responde como se fosse um ESP32 — acendendo LEDs de diferentes cores e ligando um ventilador conforme as leituras.
+O sistema simula um dispositivo IoT com sensor DHT11, onde o usuário controla temperatura e umidade via sliders em uma página web. A aplicação responde como se fosse um ESP32, acendendo LEDs de diferentes cores e ligando um ventilador conforme as leituras.
 
 ---
 
