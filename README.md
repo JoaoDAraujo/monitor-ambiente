@@ -79,4 +79,3 @@ http://localhost:5000
 ## Referências
 
 - IOTSTARTERS. Raspberry Pi Flask Web Server with DHT11. Disponível em: https://iotstarters.com/raspberry-pi-flask-web-server-with-dht11/. Acesso em: fev. 2026.
-- LASQURELL; MATEI, C. Get Humidity/Temperature from Web. Hackster.io, 2020. Disponível em: https://www.hackster.io/lasqurell/get-humidity-temperature-from-web-cf4af8. Acesso em: fev. 2026.
