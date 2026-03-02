@@ -3,7 +3,7 @@ import random
 
 app = Flask(__name__)
 
-limite = 25
+limite = 30
 
 def checar(temp, umid):
     vent = temp >= limite
@@ -29,4 +29,5 @@ def manual():
     return jsonify(checar(temp, umid))
 
 if __name__ == "__main__":
+
     app.run(debug=True)
